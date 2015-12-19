@@ -20,6 +20,7 @@
         <item url="file://$USER_HOME$/.meteor/packages/geojson-utils/1.0.3/web.browser/packages/geojson-utils.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ordered-dict/1.0.3/web.browser/packages/ordered-dict.js" />
         <item url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.4/web.browser/packages/html-tools.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/audit-argument-checks/1.0.3/web.browser/packages/audit-argument-checks.js" />
         <item url="file://$USER_HOME$/.meteor/packages/accounts-base/1.2.0/web.browser/packages/accounts-base.js" />
         <item url="file://$USER_HOME$/.meteor/packages/random/1.0.3/web.browser/packages/random.js" />
         <item url="file://$USER_HOME$/.meteor/packages/htmljs/1.0.4/web.browser/packages/htmljs.js" />
@@ -89,6 +90,7 @@
       <root url="file://$USER_HOME$/.meteor/packages/geojson-utils/1.0.3/web.browser/packages/geojson-utils.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ordered-dict/1.0.3/web.browser/packages/ordered-dict.js" />
       <root url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.4/web.browser/packages/html-tools.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/audit-argument-checks/1.0.3/web.browser/packages/audit-argument-checks.js" />
       <root url="file://$USER_HOME$/.meteor/packages/accounts-base/1.2.0/web.browser/packages/accounts-base.js" />
       <root url="file://$USER_HOME$/.meteor/packages/random/1.0.3/web.browser/packages/random.js" />
       <root url="file://$USER_HOME$/.meteor/packages/htmljs/1.0.4/web.browser/packages/htmljs.js" />
