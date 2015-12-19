@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c432e4-6ff9-4333-ad0d-2cb863fa4135" name="Default" comment="Added a submit post page and linked to it in the header.">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" afterPath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/packages" afterPath="$PROJECT_DIR$/.meteor/packages" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/versions" afterPath="$PROJECT_DIR$/.meteor/versions" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/templates/posts/post_submit.js" afterPath="$PROJECT_DIR$/client/templates/posts/post_submit.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/collections/posts.js" afterPath="$PROJECT_DIR$/lib/collections/posts.js" />
     </list>
@@ -48,21 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post_submit.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="post_submit.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/templates/posts/post_submit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.39404553">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="posts.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="posts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/collections/posts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47285464">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -91,8 +87,8 @@
         <option value="$PROJECT_DIR$/client/templates/includes/access_denied.html" />
         <option value="$PROJECT_DIR$/lib/router.js" />
         <option value="$PROJECT_DIR$/client/templates/includes/header.html" />
-        <option value="$PROJECT_DIR$/client/templates/posts/post_submit.js" />
         <option value="$PROJECT_DIR$/lib/collections/posts.js" />
+        <option value="$PROJECT_DIR$/client/templates/posts/post_submit.js" />
       </list>
     </option>
   </component>
@@ -649,18 +645,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_submit.js">
+    <entry file="file://$PROJECT_DIR$/lib/collections/posts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/collections/posts.js">
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_submit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47285464">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.39404553">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
           <folding />
         </state>
       </provider>
